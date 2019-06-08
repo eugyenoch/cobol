@@ -1,5 +1,5 @@
       ******************************************************************
-      * Author: AJAH JAMES NNAMDI
+      * Author: Eugy Enoch
       * Purpose: Display General Information About A Student
       ******************************************************************
 
